@@ -1,6 +1,6 @@
-# news_app_getx_mvvm
+# News App
 
-A new Flutter project.
+A new Flutter project using news API, GetX, and MVVM architecure.
 
 ## Getting Started
 
